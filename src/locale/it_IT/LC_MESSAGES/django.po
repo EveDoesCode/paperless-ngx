@@ -2053,7 +2053,7 @@ msgstr "Parametro aggiuntivo per l'azione selezionata, ad esempio la cartella di
 
 #: paperless_mail/models.py:266
 msgid "assign title from"
-msgstr "assegna tittolo da"
+msgstr "assegna titolo da"
 
 #: paperless_mail/models.py:286
 msgid "assign correspondent from"
